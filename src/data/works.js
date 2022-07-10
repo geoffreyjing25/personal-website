@@ -5,7 +5,7 @@
    
 export default [
 	{
-		title: 'InvestED:Investment Education Web Application',
+		title: 'InvestED: Educational Investment Simulator Web Application',
 		imgUrl:
 			'https://i.ibb.co/28v9qdc/Screen-Shot-2022-05-26-at-1-47-27-AM.png',
 		tech: ['HTML/CSS', 'JavaScript', 'SQL', 'PostgreSQL', 'pandas', 'Matplotlib'],
@@ -15,21 +15,22 @@ export default [
 		title: "Carleton Robotics: Autonomous Electric Vehicle",
 		imgUrl:
 			'https://i.ibb.co/YfhTcT4/Screen-Shot-2022-05-26-at-2-10-50-AM.png',
-		tech: ['HTML', 'CSS', 'Netlify'],
+		tech: ['Python', 'C++', 'Arduino'],
         workUrl: 'https://github.com/Carleton-Robotics/Arduino-Kart',
 	},
 	{
-		title: "Geoffrey's Personal Website",
+		title: "Personal Website",
 		imgUrl:
 			'https://raw.githubusercontent.com/ShaifArfan/AYANs-portfolio/main/ReadMeImages/ReadMeBanner.png',
-		tech: ['React JS', 'CSS'],
+		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
         workUrl: 'https://github.com/geoffreyjing25/geoffreyjing25.github.io',
 	},
 	{
-		title: 'Artistic',
+		title: 'Silver Dollar Coin Strip Game',
 		imgUrl:
-			'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
-		tech: ['React JS', 'CSS'],
-        workUrl: 'https://github.com/CS-257-S22/H',
+			// 'https://raw.githubusercontent.com/ShaifArfan/artistic/main/readmeImg/banner.png',
+			'https://images.twinkl.co.uk/tw1n/image/private/t_630/image_repo/b6/d0/au-n-419-australian-coins-strip-number-cards-_ver_1.jpg',
+		tech: ['Java'],
+        workUrl: 'https://github.com/geoffreyjing25/CoinStrip-Game',
 	},
 ];
