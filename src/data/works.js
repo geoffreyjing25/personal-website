@@ -23,7 +23,7 @@ export default [
 		imgUrl:
 			'http://drive.google.com/uc?id=1mVY9uB0qYU3aBVoJAlOqKp7xScCJ9bDd',
 		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
-        workUrl: 'https://github.com/geoffreyjing25/geoffreyjing25.github.io',
+        workUrl: 'https://github.com/geoffreyjing25/personal-website',
 	},
 	{
 		title: 'Silver Dollar Coin Strip Game',
