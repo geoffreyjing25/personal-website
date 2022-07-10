@@ -61,7 +61,7 @@ function About() {
             <p className='text-md text-gray-600 dark:text-gray-300'>Current age: <Age1/></p> 
             <p className='text-md text-gray-600 dark:text-gray-300'>I have a twin brother. (if you're curious: <Age2/>)</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Favorite Food: Sushi</p>
-            <p className='text-md text-gray-600 dark:text-gray-300'>College Sport: Golf</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>College Sport: Golf </p>
             <p className='text-md text-gray-600 dark:text-gray-300'>I once bought 300 chicken mcnuggets for my 13th birthday.</p> 
             <p className='text-md text-gray-600 dark:text-gray-300'> Hobbies: reading, learning new things, playing basketball, sketching/painting, working out, trying different foods</p> 
         </div>
