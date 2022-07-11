@@ -7,7 +7,7 @@ export default [
     {
         title: 'Software Design',
         icon: <MdWeb className='w-full h-full'/>,
-        description: 'Created dynamic interactive software with a plethora of languages and technologies, experience with system design and architecture, agile framework, unit testing, database manipulation, and more'
+        description: 'Created robust user-friendly software with a plethora of languages and technologies, experience with system design and architecture, agile framework, unit testing, database manipulation, and more'
     },
     {
         title: 'Machine Learning',
