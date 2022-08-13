@@ -44,10 +44,14 @@ function About() {
     justify-center gap-10 md:gap-20 py-20'>
         <div className='w-full md:w-6/12'>
         <SectionTitle>About Me</SectionTitle>
-        <p className='text-md text-gray-600 dark:text-gray-300'>I'm an undergraduate at Carleton College passionate 
-            about computer science and currently interested in AI/ML, finance, entrepreneurship, and VC. 
-            I'm a quick and curious learner who loves solving difficult and challenging 
-            problems, and a critical thinker with a results-driven, initiative mindset. 
+        <p className='text-md text-gray-600 dark:text-gray-300'>I'm Geoffrey Jing, an undergraduate at Carleton College passionate 
+            about computer science and currently interested in AI/ML, finance, entrepreneurship, and software engineering. This summer, I interned 
+            at a B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
+            text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
+            a full stack software engineer and enjoyed working in a challenging, fast-paced environment. I also helped build 
+            a mobile app and took part in training machine learning models for an AI healthcare startup.
+            I'm a quick and curious learner who loves solving complex 
+            problems, and an incisive thinker with a results-driven, initiative mindset. 
             I'm also a committed Division III student-athlete with extensive experience 
             in time management, leadership, and collaborative teamwork. Feel free to 
             reach out and connect with me!</p>
@@ -60,7 +64,7 @@ function About() {
             <a href="mailto: jinggeoffrey@gmail.com" className="inline-block px-6 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md">
-              <button className="outline-button-sm">Get in Touch ➡️</button>
+              <button className="outline-button-sm">Contact Me 👈</button>
           </a>
                 <br/>
             <br></br>

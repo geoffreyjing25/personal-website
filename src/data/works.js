@@ -5,11 +5,12 @@
    
 export default [
 	{
-		title: 'InvestED: Educational Investment Simulator Web Application',
+		title: 'InvestED: Educational Investment Simulator',
 		imgUrl:
 			'https://investmentu.com/wp-content/uploads/2020/03/which-stocks-should-i-invest-in.jpg',
 		tech: ['Flask', 'HTML/CSS', 'JavaScript', 'SQL', 'PostgreSQL', 'pandas', 'Matplotlib'],
         workUrl: 'https://github.com/CS-257-S22/H',
+		text: "Mock investment portfolio web application based on real NASDAQ and S&P 500 data that educates users on differing investment strategies, complete with a customized portfolio option and graphs visualizing performance comparisons generated with matplotlib, seaborn, and pandas",
 	},
 	{
 		title: 'Todo App',
@@ -17,6 +18,7 @@ export default [
 		'https://i.stack.imgur.com/thsNp.jpg',
 		tech: ['Next.js', 'styled-components', 'useForm', 'useState', 'JavaScript', 'HTML'],
 		workUrl: 'https://github.com/geoffreyjing25/todo-app',
+		text: "Todo list app implemented with React, with full complete features including list addition, item marking, and item deletion. Coded using Next.js, with useForm for input and styled-components for styling",
 	},
 	{
 		title: "Personal Website",
@@ -24,12 +26,14 @@ export default [
 		'http://drive.google.com/uc?id=1mVY9uB0qYU3aBVoJAlOqKp7xScCJ9bDd',
 		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
         workUrl: 'https://github.com/geoffreyjing25/personal-website',
+		text: "The website you're on right now! A dynamic, mobile-friendly, responsive portfolio website featuring a light/dark theme toggle among other refreshing details, created with React and TailwindCSS",
 	},
 	{
 		title: "Carleton Robotics: Autonomous Electric Vehicle",
 		imgUrl:
 			'https://blog.arduino.cc/wp-content/uploads/2016/08/7731171470230745796.jpg',
-		tech: ['Python', 'C++', 'Arduino'],
+		tech: ['Python', 'C++', 'Arduino', 'LiDAR'],
 		workUrl: 'https://github.com/Carleton-Robotics/Arduino-Kart',
+		text: "Software written for autonomous electric kart collision detection, including Arduino, data retrieval, and speed control functions",
 	},
 ];

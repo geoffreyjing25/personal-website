@@ -14,6 +14,7 @@ function Works() {
                 imgUrl={work.imgUrl}
                 title={work.title}
                 tech={work.tech}
+                text={work.text}
                 workUrl={work.workUrl}
                 ></WorkItem>
             ))}
