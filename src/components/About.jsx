@@ -48,13 +48,11 @@ function About() {
             about computer science and currently interested in AI/ML, finance, entrepreneurship, and software engineering. This summer, I interned 
             at a B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
             text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
-            a full stack software engineer and enjoyed working in a challenging, fast-paced environment. I also helped build 
-            a mobile app and took part in training machine learning models for an AI healthcare startup.
-            I'm a quick and curious learner who loves solving complex 
-            problems, and an incisive thinker with a results-driven, initiative mindset. 
-            I'm also a committed Division III student-athlete with extensive experience 
-            in time management, leadership, and collaborative teamwork. Feel free to 
-            reach out and connect with me!</p>
+            a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
+            a cross-platform mobile app and took part in training machine learning models for an AI healthcare startup.
+            While at college, I lead the robotics team as the Vice President and represent Carleton Athletics as a starter on 
+            the NCAA Division III Men's Golf team. 
+            I absolutley love meeting new people, so don't hesitate to get in touch!</p>
             <br/>
             {/* <a href="mailto:jinggeoffrey@gmail.com"
             className='block mt-3 text-md md:text-lg
@@ -71,9 +69,9 @@ function About() {
             <p className='text-l text-gray-600 dark:text-gray-300'>Fun Stats About Me:</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Current age: <Age1/></p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Current Typing Speed: 125 wpm</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>Number of sports I play: 6</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>I have a brother who is 1 minute older (identical twin 😉)</p>
-            {/* <p className='text-md text-gray-600 dark:text-gray-300'>Favorite Food: Sushi</p> */}
-            <p className='text-md text-gray-600 dark:text-gray-300'>Most chicken nuggets ordered at once: 300 for my 13th birthday</p> 
+            <p className='text-md text-gray-600 dark:text-gray-300'>Most chicken mcnuggets ordered at once: 300 for my 13th birthday</p> 
             {/* <p className='text-md text-gray-600 dark:text-gray-300'> Hobbies: reading, learning new things, playing basketball, sketching/painting, working out, trying different foods</p>  */}
         </div>
         <img src="http://drive.google.com/uc?export=view&id=1RFg0RarI8Sm1wbH1VNJw6lTTqqOuXLQt"

@@ -10,7 +10,7 @@ function WorkItem({imgUrl, title, tech, workUrl, text}) {
             text-xs md:text-sm'>
                 {tech.map(item => (
                     <span key={item}
-                    className='inline-block px-2 py-1 bg-slate-200 dark:bg-slate-900 rounded-md'
+                    className='inline-block px-2 py-1 bg-slate-100 dark:bg-slate-900 rounded-md'
                     >
                         {item}
                     </span>

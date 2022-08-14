@@ -26,7 +26,7 @@ export default [
 		'http://drive.google.com/uc?id=1mVY9uB0qYU3aBVoJAlOqKp7xScCJ9bDd',
 		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
         workUrl: 'https://github.com/geoffreyjing25/personal-website',
-		text: "The website you're on right now! A dynamic, mobile-friendly, responsive portfolio website featuring a light/dark theme toggle among other refreshing details, created with React and TailwindCSS",
+		text: "The website you're on right now! A dynamic, mobile-friendly, and responsive portfolio website featuring a light/dark theme toggle among other cool details, created with React.js and TailwindCSS",
 	},
 	{
 		title: "Carleton Robotics: Autonomous Electric Vehicle",
