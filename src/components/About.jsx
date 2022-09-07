@@ -49,9 +49,9 @@ function About() {
             at a B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
             text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
             a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
-            a cross-platform mobile app and took part in training machine learning models for an AI healthcare startup.
-            While at college, I lead the robotics team as the Vice President and represent Carleton Athletics as a starter on 
-            the NCAA Division III Men's Golf team. 
+            a web app and am taking part training machine learning models for an AI healthcare startup. Currently, I'm spending a semester
+            studying CS abroad at Budapest, Hungary. While at college, I lead the robotics team as the Vice President and represent Carleton Athletics 
+            as a starter on the NCAA Division III Men's Golf team. 
             I absolutley love meeting new people, so don't hesitate to get in touch!</p>
             <br/>
             {/* <a href="mailto:jinggeoffrey@gmail.com"
