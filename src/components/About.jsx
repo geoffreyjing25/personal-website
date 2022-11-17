@@ -46,10 +46,10 @@ function About() {
         <SectionTitle>About Me</SectionTitle>
         <p className='text-md text-gray-600 dark:text-gray-300'>I'm Geoffrey Jing, an undergraduate at Carleton College passionate 
             about computer science and currently interested in AI/ML, finance, entrepreneurship, and software engineering. This summer, I interned 
-            at a B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
+            at an EdTech B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
             text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
             a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
-            a web app and am taking part training machine learning models for an AI healthcare startup. Currently, I'm spending a semester abroad
+            a website and gained exposure to machine learning through interning at an AI healthcare startup. Currently, I'm spending a semester abroad
             in the heart of Europe,
             studying CS in the beautiful city of Budapest, Hungary. While at college, I lead the robotics team as the Vice President and represent Carleton Athletics 
             as a starter on the NCAA Division III Men's Golf team. 
@@ -69,7 +69,7 @@ function About() {
             <br></br>
             <p className='text-l text-gray-600 dark:text-gray-300'>Fun Stats About Me:</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Current age: <Age1/></p>
-            <p className='text-md text-gray-600 dark:text-gray-300'>Current Typing Speed: 125 wpm</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>Fastest Typing Speed: 125 wpm</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Number of sports I play: 6</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>I have a brother who is 1 minute older (identical twin 😉)</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Most chicken mcnuggets ordered at once: 300 for my 13th birthday</p> 
