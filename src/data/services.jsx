@@ -7,12 +7,12 @@ export default [
     {
         title: 'Software Design',
         icon: <MdWeb className='w-full h-full'/>,
-        description: 'Created robust user-friendly software with a plethora of languages and technologies, experience with system design and architecture, agile framework, unit testing, database manipulation, and more'
+        description: 'Created robust user-friendly software with a plethora of languages and technologies, familiar with system design and architecture, agile framework, unit testing, database manipulation, and more'
     },
     {
-        title: 'Machine Learning and Data Science',
+        title: 'Machine Learning & Data Science',
         icon: <FaBrain className='w-full h-full'/>,
-        description: 'Trained and built machine learning models to predict cardiovascular diseases; proficient with data science operations including logistic regression, cluster analysis, and more',
+        description: 'Experience working with machine learning models; proficient with data science libraries and knowledge in ML algorithms like logistic regression, ANNs, Decision Trees, SVM, and more',
     },
     {
         title: 'Web and Mobile App Development',
