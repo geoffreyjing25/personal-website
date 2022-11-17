@@ -1,31 +1,12 @@
 import React, { useState, useEffect } from 'react';
-// import React from 'react'
 import SectionTitle from './SectionTitle'
 
 const Age1 = () => {
   const [age, setAge] = useState();
 
   const tick = () => {
-    const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
+    const divisor = 365.2421897 * 1000 * 60 * 60 * 24;
     const birthTime = new Date('2003-05-09T09:20:00');
-    setAge(((Date.now() - birthTime) / divisor).toFixed(11));
-  };
-
-  useEffect(() => {
-    const timer = setInterval(() => tick(), 25);
-    return () => {
-      clearInterval(timer);
-    };
-  }, []);
-  return <>{age}</>;
-};
-
-const Age2 = () => {
-  const [age, setAge] = useState();
-
-  const tick = () => {
-    const divisor = 1000 * 60 * 60 * 24 * 365.2421897; // ms in an average year
-    const birthTime = new Date('2003-05-09T09:19:00');
     setAge(((Date.now() - birthTime) / divisor).toFixed(11));
   };
 
@@ -55,11 +36,6 @@ function About() {
             as a starter on the NCAA Division III Men's Golf team. 
             I absolutely love meeting new people, so don't hesitate to get in touch!</p>
             <br/>
-            {/* <a href="mailto:jinggeoffrey@gmail.com"
-            className='block mt-3 text-md md:text-lg
-             text-gray-700 dark:text-gray-300 underline hover:text-indigo-500
-            dark:hover:text-indigo-500'
-            >jinggeoffrey@gmail.com</a> */}
             <a href="mailto: jinggeoffrey@gmail.com" className="inline-block px-6 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md">
@@ -72,8 +48,7 @@ function About() {
             <p className='text-md text-gray-600 dark:text-gray-300'>Fastest Typing Speed: 125 wpm</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>Number of sports I play: 6</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>I have a brother who is 1 minute older (identical twin 😉)</p>
-            <p className='text-md text-gray-600 dark:text-gray-300'>Most chicken mcnuggets ordered at once: 300 for my 13th birthday</p> 
-            {/* <p className='text-md text-gray-600 dark:text-gray-300'> Hobbies: reading, learning new things, playing basketball, sketching/painting, working out, trying different foods</p>  */}
+            <p className='text-md text-gray-600 dark:text-gray-300'>Most chicken mcnuggets ordered at once: 300 for my 13th birthday</p>
         </div>
         <img src="http://drive.google.com/uc?export=view&id=1RFg0RarI8Sm1wbH1VNJw6lTTqqOuXLQt"
         alt="Geoffrey Jing" className='w-full md:w-6/12 rounded-lg object-cover'/>
