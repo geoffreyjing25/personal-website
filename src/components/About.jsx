@@ -49,7 +49,7 @@ function About() {
             at an EdTech B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
             text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
             a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
-            a website and gained exposure to machine learning through interning at an AI healthcare startup. Currently, I'm spending a semester abroad
+            a website and gained exposure to training machine learning models for an AI healthcare startup. Currently, I'm spending a semester abroad
             in the heart of Europe,
             studying CS in the beautiful city of Budapest, Hungary. While at college, I lead the robotics team as the Vice President and represent Carleton Athletics 
             as a starter on the NCAA Division III Men's Golf team. 
