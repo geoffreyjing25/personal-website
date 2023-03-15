@@ -31,7 +31,7 @@ function HeroSection() {
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeProjects()</a>
-            <a href="https://docdro.id/brSshJ4" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
+            <a href="https://docdro.id/LEc1xhw" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeResume()</a>
           </div>
