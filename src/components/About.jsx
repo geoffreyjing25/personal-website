@@ -25,20 +25,25 @@ function About() {
     justify-center gap-10 md:gap-20 py-20'>
         <div className='w-full md:w-6/12'>
         <SectionTitle>About Me</SectionTitle>
-        <p className='text-md text-gray-600 dark:text-gray-300'>I'm Geoffrey Jing, an incoming junior at Carleton College studying 
-            CS + Stats, and broadly interested in entrepreneurship, product management, venture capital, and software engineering. 
-            Last summer, I interned at an EdTech B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
+        <p className='text-md text-gray-600 dark:text-gray-300'>👋 I'm Geoffrey Jing, an incoming junior at Carleton College studying CS and Statistics.</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>
+            I love entrepreneurships and startups, having interned at 3 early stage startups in the past year, in a variety of tech sectors including EdTech (B2B SaaS), Healthcare, and Global Logistics. I got to work closely with founders and explore areas beyond just software engineering, including VC and product, which was really cool.
+            </p>
+            {/* Last summer, I interned at an EdTech B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
             text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
             a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
-            a website and gained exposure to training machine learning models for an AI healthcare startup later that year.</p>
+            a website and gained exposure to training machine learning models for an AI healthcare startup later that year. */}
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            This fall, I spent an amazing semester studying CS
-            abroad in Budapest, Hungary, and got to explore Europe! (Here's a photo of me in front of the Big Ben in London!)
-            This winter term, I worked part-time as a product manager and software engineer intern at Transiport, a supply chain management and global logistics startup.
-            While at college, I lead VCarl, Carleton's first and premier VC organization, as well as serving
-            as the VP of my school's robotics team. While I'm not studying or working, you can find me at collegiate golf tournaments as a starter 
-            for our NCAA Division III Men's Golf team.
-            I absolutely love meeting new people, so don't hesitate to get in touch!</p>
+            In Fall 2022, I spent a wonderful semester taking advanced CS/SWE courses
+            <a href="https://www.ait-budapest.com/" target="_blank" className='text-gray-700 dark:text-gray-300 text-indigo-500 dark:text-indigo-500'> abroad</a> in Budapest, Hungary, while exploring Europe: (Here's a photo of me in front of the Big Ben in London!) </p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>
+            At college, I found and lead VCarl, Carleton's first and premier VC organization, as well as serving
+            as the VP of Carleton's robotics team.</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>
+            Aside from academics, I'm a D3 college athlete (golf), avid explorer of new foods and sports, and am working on becoming
+            trilingual someday (fluent in English and Mandarin, and working towards Spanish!)</p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>
+            I absolutely love meeting new people, so don't hesitate to get in touch! 👊</p>
             <br/>
             <a href="mailto: jinggeoffrey@gmail.com" className="inline-block px-6 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 

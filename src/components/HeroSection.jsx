@@ -25,13 +25,13 @@ function HeroSection() {
                 </Typewriter>
          </h1>
         <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm a 
-        CS major at Carleton College pursuing internship opportunities for Spring and Summer 2023. Feel free to take a look around
+        CS + Stats major at Carleton College pursuing internship opportunities for Spring and Summer 2023. Feel free to take a look around
         and check out my work!</p>
         <div className='space-x-8'>
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeProjects()</a>
-            <a href="https://docdro.id/LEc1xhw" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
+            <a href="https://docdro.id/2VGQtwf" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeResume()</a>
           </div>
