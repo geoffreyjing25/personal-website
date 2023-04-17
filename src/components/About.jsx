@@ -27,15 +27,14 @@ function About() {
         <SectionTitle>About Me</SectionTitle>
         <p className='text-md text-gray-600 dark:text-gray-300'>👋 I'm Geoffrey Jing, an incoming junior at Carleton College studying CS and Statistics.</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            I love entrepreneurships and startups, having interned at 3 early stage startups in the past year, in a variety of tech sectors including EdTech (B2B SaaS), Healthcare, and Global Logistics. I got to work closely with founders and explore areas beyond just software engineering, including VC and product, which was really cool.
+            I'm interested in entrepreneurship and startups, and am also exploring product management and venture capital. I've interned at 3 early stage startups in the past year, in a variety of tech sectors including EdTech (B2B SaaS), Healthcare, and Global Logistics. 
             </p>
-            {/* Last summer, I interned at an EdTech B2B SaaS startup, <a href="https://www.village.com/" target="_blank" className='text-gray-700 dark:text-gray-300
-            text-indigo-500 dark:text-indigo-500'>Village</a>, where I wore multiple hats on the engineering team as 
-            a full stack software engineer and enjoyed challenging myself in a fast-paced, stimulating environment. I also helped build 
-            a website and gained exposure to training machine learning models for an AI healthcare startup later that year. */}
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            In Fall 2022, I spent a wonderful semester taking advanced CS/SWE courses
-            <a href="https://www.ait-budapest.com/" target="_blank" className='text-gray-700 dark:text-gray-300 text-indigo-500 dark:text-indigo-500'> abroad</a> in Budapest, Hungary, while exploring Europe: (Here's a photo of me in front of the Big Ben in London!) </p>
+            Last fall I spent a semester abroad taking advanced CS courses
+            in Budapest, Hungary, while exploring Europe: (Here's a photo of me in front of the Big Ben in London!) </p>
+            <p className='text-md text-gray-600 dark:text-gray-300'>
+            This summer, I will be working at <a href="https://www.3m.com/" target="_blank" className='text-grey-700 dark:text-grey-300
+            text-red-500 dark:text-red-500'><b>3M</b></a> as a SWE + DS intern for their Corporate Research Systems Lab. </p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
             At college, I found and lead VCarl, Carleton's first and premier VC organization, as well as serving
             as the VP of Carleton's robotics team.</p>
