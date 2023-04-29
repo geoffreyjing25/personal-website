@@ -25,7 +25,7 @@ function HeroSection() {
                 </Typewriter>
          </h1>
         <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm a 
-        CS + Stats major at Carleton College pursuing internship opportunities for Summer and Fall 2023. Feel free to take a look around
+        CS + Stats major at Carleton College pursuing internship opportunities for Fall 2023 and Summer 2024. Feel free to take a look around
         and check out my work!</p>
         <div className='space-x-8'>
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 
