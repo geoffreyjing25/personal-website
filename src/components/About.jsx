@@ -33,16 +33,16 @@ function About() {
             Last fall I spent a semester abroad taking advanced CS courses
             in Budapest, Hungary, while exploring Europe: (Here's a photo of me in front of the Big Ben in London!) </p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            This summer, I will be working at <a href="https://www.3m.com/" target="_blank" className='text-grey-700 dark:text-grey-300
+            This summer, I'm working at <a href="https://www.3m.com/" target="_blank" className='text-grey-700 dark:text-grey-300
             text-red-500 dark:text-red-500'><b>3M</b></a> as a SWE + DS intern for their Corporate Research Systems Lab. </p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
             At college, I found and lead VCarl, Carleton's first and premier VC organization, as well as serving
-            as the VP of Carleton's robotics team.</p>
+            on the board of 3 other student organizations.</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
             Aside from academics, I'm a D3 college athlete (golf), avid explorer of new foods and sports, and am working on becoming
             trilingual someday (fluent in English and Mandarin, and working towards Spanish!)</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            I absolutely love meeting new people, so don't hesitate to get in touch! 👊</p>
+            I love meeting new people, so don't hesitate to get in touch either by email below, or just book a short meeting with me by pressing the button right button! 👊</p>
             <br/>
             <a href="mailto: jinggeoffrey@gmail.com" className="inline-block px-6 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
