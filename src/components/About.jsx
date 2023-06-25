@@ -42,7 +42,7 @@ function About() {
             Aside from academics, I'm a D3 college athlete (golf), avid explorer of new foods and sports, and am working on becoming
             trilingual someday (fluent in English and Mandarin, and working towards Spanish!)</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            I love meeting new people, so don't hesitate to get in touch with me by email below or book a short meeting with me at the bottom right corner! 👊</p>
+            I love meeting new people, so don't hesitate to get in touch with me by email below or book a quick meeting with me at the bottom right corner!</p>
             <br/>
             <a href="mailto: jinggeoffrey@gmail.com" className="inline-block px-6 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
