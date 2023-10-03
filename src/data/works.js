@@ -15,7 +15,7 @@ export default [
 	{
 		title: 'YourTrip: A New Way to Share Your Travels',
 		imgUrl:
-			'https://www.nepaleverestholidays.com/wp-content/uploads/2022/02/map.jpg',
+			'https://media.istockphoto.com/id/1306235331/vector/simplified-world-map-vector-illustration.jpg?s=170667a&w=0&k=20&c=IIhpblRqviB9PdSam7-rw3CwMQWtxlnSxA4SitNHB1M=',
 		tech: ['Kotlin', 'Firebase', 'Android Studio'],
         workUrl: 'https://github.com/lewiseng/YourTrip',
 		text: "An android app platform with login authentication and database storage with Firebase, featuring geocoding and a full interactive maps activity that keeps track of your visited locations by displaying photos on world map with the Google Maps SDK",
