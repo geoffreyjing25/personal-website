@@ -5,19 +5,19 @@ import { MdWeb } from 'react-icons/md';
 
 export default [
     {
-        title: 'Software Design',
+        title: 'Product',
         icon: <MdWeb className='w-full h-full'/>,
-        description: 'Created robust user-friendly software with a plethora of languages and technologies, familiar with system design and architecture, agile framework, unit testing, database manipulation, and more'
+        description: 'User interviews, market research, GTM strategy, data analysis, product roadmapping, prototyping & testing, UI/UX design, data-driven decision making'
     },
     {
-        title: 'Machine Learning & Data Science',
+        title: 'Entrepreneurship',
         icon: <FaBrain className='w-full h-full'/>,
-        description: 'Experience working with machine learning models; proficient with data science libraries and knowledge in ML algorithms like logistic regression, ANNs, Decision Trees, SVM, and more',
+        description: 'customer acquisition, growth hacking, financial analysis, business strategy, pitching & fundraising, business ideation + validation, team building, leadership',
     },
     {
-        title: 'Web and Mobile App Development',
+        title: 'Software',
         icon: <VscCode className='w-full h-full'/>,
-        description: 'Experienced full stack web developer, created interactive dynamic web and mobile applications coded using React, Rails, GraphQL, Android Studio, among others',
+        description: 'Full stack web dev, mobile software dev, machine learning (CV, LLMs), proficiency in plethora of programming languages and technologies',
     },
 
 ]

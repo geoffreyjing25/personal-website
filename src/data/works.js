@@ -40,7 +40,7 @@ export default [
 	{
 		title: "Personal Website",
 		imgUrl:
-		'http://drive.google.com/uc?id=1mVY9uB0qYU3aBVoJAlOqKp7xScCJ9bDd',
+		'https://lh3.googleusercontent.com/drive-viewer/AEYmBYTbDOBApGBRwLM1FQujLq7ym70j8eSAxmwnxoD06aYI3AY6aViLEzEfSOZJu5HDGN0RaKhL5KUeemg9sVrp7HOhCuwdCw=s1600',
 		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
         workUrl: 'https://github.com/geoffreyjing25/personal-website',
 		text: "The website you're on right now! A dynamic, mobile-friendly, and responsive portfolio website featuring a light/dark theme toggle among other cool details, created with React.js and TailwindCSS",

@@ -10,9 +10,15 @@ function HeroSection() {
          <Typewriter 
               options={{
                 strings: [
-                  '<b>Hi, my name is Geoffrey.<b>',
-                  '<b>Welcome to my website!',
-                  '<b>Click the top right corner'
+                  // '<b>Hi, my name is Geoffrey.<b>',
+                  // '<b>Welcome to my website!',
+                  // '<b>Click the top right corner'
+                  '<b>Serial Entrepreneur<b>',
+                  '<b>Product Manager',
+                  '<b>Software Engineer',
+                  '<b>Product Designer',
+                  '<b>Growth Hacker',
+                  '<b>VC Enthusiast<b>',
                 ],
                 delay: 50,
                 deleteSpeed: 22,
@@ -24,14 +30,15 @@ function HeroSection() {
               >
                 </Typewriter>
          </h1>
-        <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm a 
-        CS + Stats major at Carleton College pursuing internship opportunities for Fall 2023 and Summer 2024. Feel free to take a look around
+        <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm Geoffrey, a 
+        CS + Stats major at Carleton College pursuing internship opportunities for Summer 2024 and Fall 2024. Feel free to hang around
         and check out my work!</p>
         <div className='space-x-8'>
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeProjects()</a>
-            <a href="https://docdro.id/2VGQtwf" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
+            {/* <a href="https://docdro.id/2VGQtwf" target='blank' className='inline-block px-5 py-3 border-transparent text-base */}
+            <a href="https://www.docdroid.net/2VGQtwf/resume-pdf" target='blank' className='inline-block px-5 py-3 border-transparent text-base 
             font-medium rounded-md text-white bg-indigo-600 
             hover:bg-indigo-700 md:text-md'>seeResume()</a>
           </div>
