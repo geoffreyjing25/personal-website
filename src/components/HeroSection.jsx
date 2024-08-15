@@ -21,10 +21,11 @@ function HeroSection() {
 
                   // '<b>Product Designer',
                   // '<b>Growth Hacker',
-                  'Identical Twin',
                   'Startup Founder',
+                  'Identical Twin',
                   'Collegiate Golfer',
-                  'Sourdough Enthusiast',
+                  'Tinkerer + Builder',
+                  'Sourdough Lover',
                 ],
                 delay: 50,
                 deleteSpeed: 22,
