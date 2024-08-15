@@ -4,6 +4,7 @@ import Footer from './components/Footer';
 import HeroSection from './components/HeroSection'
 import Services from './components/Services';
 import Works from './components/Works';
+import FunFacts from './components/FunFacts';
 
 function App() {
     const [theme, setTheme] = useState(null);
@@ -42,9 +43,10 @@ function App() {
     <div className='font-inter bg:white dark:bg-slate-900'>
         <div className='max-w-5xl mx-auto w-11/12'>
         <HeroSection></HeroSection>
+        <About></About>
         <Services></Services>
         <Works></Works>
-        <About></About>
+        <FunFacts></FunFacts>
         <Footer></Footer>
         </div>
     </div>

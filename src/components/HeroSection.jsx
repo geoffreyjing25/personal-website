@@ -13,12 +13,18 @@ function HeroSection() {
                   // '<b>Hi, my name is Geoffrey.<b>',
                   // '<b>Welcome to my website!',
                   // '<b>Click the top right corner'
-                  '<b>Serial Entrepreneur<b>',
-                  '<b>Product Manager',
-                  '<b>Software Engineer',
-                  '<b>Product Designer',
-                  '<b>Growth Hacker',
-                  '<b>VC Enthusiast<b>',
+
+                  // '<b>Serial Entrepreneur<b>',
+                  // '<b>Product Manager',
+                  // '<b>Software Engineer',
+                  // '<b>VC Enthusiast<b>',
+
+                  // '<b>Product Designer',
+                  // '<b>Growth Hacker',
+                  'Identical Twin',
+                  'Startup Founder',
+                  'Collegiate Golfer',
+                  'Sourdough Enthusiast',
                 ],
                 delay: 50,
                 deleteSpeed: 22,
@@ -31,7 +37,7 @@ function HeroSection() {
                 </Typewriter>
          </h1>
         <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm Geoffrey, a 
-        CS + Stats major at Carleton College pursuing internship opportunities for Summer 2024 and Fall 2024. Feel free to hang around
+        CS + Stats major at Carleton College pursuing new grad opportunities for Summer 2025 and beyond. Feel free to hang around
         and check out my work!</p>
         <div className='space-x-8'>
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 

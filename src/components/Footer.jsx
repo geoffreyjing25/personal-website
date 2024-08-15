@@ -7,7 +7,7 @@ function Footer() {
         font-semibold'>Geoffrey Jing</a>
         <a href="mailto:jinggeoffrey@gmail.com"
         className=' text-sm md:text-md hover:text-indigo-500'
-        >jinggeoffrey[at]gmail[dot]com</a>
+        >jinggeoffrey [@] gmail [dot] com</a>
         <p className='text-xs  mt-2 text-gray-500'>
             © Geoffrey Jing {new Date().getFullYear()}. All rights reserved 
         </p>

@@ -40,7 +40,9 @@ export default [
 	{
 		title: "Personal Website",
 		imgUrl:
-		'https://lh3.googleusercontent.com/drive-viewer/AEYmBYTbDOBApGBRwLM1FQujLq7ym70j8eSAxmwnxoD06aYI3AY6aViLEzEfSOZJu5HDGN0RaKhL5KUeemg9sVrp7HOhCuwdCw=s1600',
+		"https://i.im.ge/2024/08/12/fd2DoW.Screenshot-2024-08-11-at-10-49-48PM.png",
+		// 'https://lh3.googleusercontent.com/drive-viewer/AEYmBYTbDOBApGBRwLM1FQujLq7ym70j8eSAxmwnxoD06aYI3AY6aViLEzEfSOZJu5HDGN0RaKhL5KUeemg9sVrp7HOhCuwdCw=s1600',
+		// "https://drive.google.com/uc?id=1Bax9ihh5-JxaSzi0O4d92ZJtR3s2lAVJ",
 		tech: ['React.js', 'Tailwind CSS', 'JavaScript', 'HTML', 'CSS'],
         workUrl: 'https://github.com/geoffreyjing25/personal-website',
 		text: "The website you're on right now! A dynamic, mobile-friendly, and responsive portfolio website featuring a light/dark theme toggle among other cool details, created with React.js and TailwindCSS",
