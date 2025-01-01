@@ -25,10 +25,10 @@ function About() {
     justify-center gap-10 md:gap-20 py-20'>
         <div className='w-full md:w-6/12'>
         <SectionTitle>About Me</SectionTitle>
-        <p className='text-md text-gray-600 dark:text-gray-300'>👋 I'm Geoffrey Jing, a serial entrepreneur with experience in product, software, venture, & growth. I'm currently building @ <a href="https://albertjing.my.canva.site/tech-website-in-teal-white-navy-gradients-style" target="_blank" className='text-grey-700 dark:text-grey-300
-            text-orange-600 dark:text-orange-500'><b>Persimmon</b></a>, a two-sided mobile app and data marketplace focused on personal data monetization.</p>
+        <p className='text-md text-gray-600 dark:text-gray-300'>👋 I'm Geoffrey Jing, a serial entrepreneur with experience in product, software, venture, & growth. I'm currently building something new.</p>
             <p className='text-md text-gray-600 dark:text-gray-300'>
-            In the past, I developed a network architecture framework for LLM training + inference @ <a href="https://www.juniper.net/" target="_blank" className='text-grey-700 dark:text-grey-300
+            Previously, I founded <a href="https://albertjing.my.canva.site/tech-website-in-teal-white-navy-gradients-style" target="_blank" className='text-grey-700 dark:text-grey-300
+            text-orange-600 dark:text-orange-500'><b>Persimmon</b></a>, a two-sided mobile app and data marketplace focused on personal data monetization. In the past, I've also developed a network architecture framework for LLM training + inference @ <a href="https://www.juniper.net/" target="_blank" className='text-grey-700 dark:text-grey-300
             text-green-600 dark:text-green-600'><b>Juniper Networks</b></a>, built a GenAI internal portal with RAG from scratch @ <a href="https://benhamouglobalventures.com/" target="_blank" className='text-grey-700 dark:text-grey-300
             text-blue-600 dark:text-blue-600'><b>BGV</b></a>, and created AI tools for internal customers at <a href="https://www.3m.com/" target="_blank" className='text-grey-700 dark:text-grey-300
             text-red-500 dark:text-red-500'><b>3M</b></a>. Before that, I interned at 3 (pre-seed to seed stage) startups, wearing multiple hats and gaining insights into EdTech (B2B SaaS), Healthcare, and Supply Chain verticals. </p>
@@ -39,8 +39,9 @@ function About() {
             Before that, I interned at 3 (pre-seed to seed stage) startups, wearing multiple hats and gaining insights into EdTech (B2B SaaS), Healthcare, and Global Logistics verticals. 
             </p> */}
             <p className='text-md text-gray-600 dark:text-gray-300'>
-              I'm also a <a href="https://www.406ventures.com/files/406%20Ventures%20-%20Student%20Fellows%20Program%20Overview%20(2022).pdf" target="_blank" className='text-grey-700 dark:text-grey-300
-            text-green-800 dark:text-blue-300'><b>.406 Ventures Fellow</b></a>, part of a selective and prestigious fellowship made of the best student founders in the nation.</p>
+              I'm also a venture scout at <a href="https://somacap.com/" target="_blank" className='text-grey-700 dark:text-grey-300
+            text-purple-500 dark:text-purple-300'><b>Soma Capital</b></a> and a <a href="https://www.406ventures.com/files/406%20Ventures%20-%20Student%20Fellows%20Program%20Overview%20(2022).pdf" target="_blank" className='text-grey-700 dark:text-grey-300
+            text-green-800 dark:text-blue-300'><b>.406 Ventures Fellow</b></a>, where I source startups and am actively involved in communities made of the best student founders in the nation.</p>
             {/* Last fall I spent a semester abroad taking advanced CS courses
             in Budapest, Hungary, while exploring Europe: (Here's a photo of me in front of the Big Ben in London!) </p>
             <p className='text-md text-gray-600 dark:text-gray-300'> */}

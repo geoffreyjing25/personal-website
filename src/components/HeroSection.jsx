@@ -38,7 +38,7 @@ function HeroSection() {
                 </Typewriter>
          </h1>
         <p className='text-md md:text-xl max-w-md mb-5 text-gray-600 dark:text-gray-300'>I'm Geoffrey, a 
-        CS + Stats major at Carleton College pursuing new grad opportunities for Summer 2025 and beyond. Feel free to hang around
+        CS + Stats major at Carleton College pursuing opportunities for Summer 2025 and beyond. Feel free to hang around
         and check out my work!</p>
         <div className='space-x-8'>
             <a href="#works" className='inline-block px-5 py-3 border-transparent text-base 
